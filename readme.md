@@ -1,5 +1,7 @@
 # Movie Trailer Website
 
+Generates and shows a web page with your favourite movies
+
 ## Dependencys
 
 * video.py   - contains data structure for creation web page elements by fresh_tomatoes
